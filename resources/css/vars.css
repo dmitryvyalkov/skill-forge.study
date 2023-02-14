@@ -1,0 +1,23 @@
+:root {
+    --main-font: 'Montserrat', sans-serif;
+    --font-w-thin: 100;
+    --font-w-extra-light: 300;
+    --font-w-light: 300;
+    --font-w-regular: 400;
+    --font-w-normal: 400;
+    --font-w-medium: 400;
+    --font-w-semi-bold: 700;
+    --font-w-bold: 700;
+    --font-w-extra-bold: 900;
+    --font-w-black: 900;
+
+    --color-m1: #F7F3E7;
+    --color-m2: #D9C95D;
+    --color-m3: #F0F073;
+    --color-m4: #A3D95D;
+    --color-m5: #4c6947;
+    --color-m6: #000;
+    --color-m7: #333;
+
+    --color-bg-main: var(--color-m1);
+}
